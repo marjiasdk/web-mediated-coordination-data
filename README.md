@@ -28,3 +28,11 @@ Data for the paper "Web-Mediated Coordination as a Harm Pathway in LLM-Based Mul
 
 ## Limits
 One coder coded all rows; no inter-rater agreement is reported. Where a primary source was gated or only partly read, the `Evidence gaps / tier rationale` column says so. Sources were read up to 15 November 2026.
+
+## Licence
+
+The data in this repository (`incidents.csv` and `legend.csv`) is released under the Creative Commons Attribution 4.0 International licence (CC-BY-4.0): https://creativecommons.org/licenses/by/4.0/
+
+## AIAAIC keyword screen
+
+The screen used the headline and technology fields only, with the terms "multi-agent", "agents", "agentic", "swarm", "orchestrat", "sub-agent", "AI agent" and "autonomous agent". It returned 32 entries; the four that involve interacting agents were already in the sample.
